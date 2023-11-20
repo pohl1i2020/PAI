@@ -1,0 +1,45 @@
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 100px 3fr 80px;
+  grid-template-areas:
+    "header header header"
+    "main main aside"
+    "footer footer footer";
+  border: 2px;
+  border-style: solid;
+  border-color: #b7b7b7;
+  padding: 5px;
+}
+header {
+  display: grid;
+  grid-area: header;
+  justify-content: center;
+}
+h2 {
+  display: grid;
+  justify-content: center;
+  color: #80cb80;
+}
+main {
+  display: grid;
+  grid-area: main;
+  justify-content: center;
+}
+aside {
+  display: grid;
+  grid-area: aside;
+}
+footer {
+  display: grid;
+  grid-area: footer;
+  justify-content: center;
+}
+fieldset {
+  display: grid;
+  justify-content: center;
+}
+body {
+  background-color: #333333;
+  color: white;
+}

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kantor</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="main.js" defer></script>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>Kantor Walut</h1>
+      </header>
+      <main>
+        <h2>Kantor "San Escobar"</h2>
+        <img src="sanEscobar.png" alt="" />
+        <p>
+          Kurs walutowy określany jest poprzez podaż danej waluty oraz popyt na
+          nią. Czynniki go określające opierają się w głównej mierze na obrocie
+          handlowym, wymianie usług oraz polityce walutowej danego państwa. To
+          bardzo ważne ale nie mając tego na uwadze w naszym kantorze zawsze
+          znajdą Państwo korzystne dla siebie kursy walut.
+        </p>
+        <img src="flatEarthers.png" alt="" width="500px" height="250px" />
+        <p>
+          Nasz kantor zapewnia także profesjonalną obsługę oraz bezproblemowe i
+          elastyczne umowy gotówkowe. Szczególną uwagę od zawsze przykładamy do
+          jakości oferowanych przez nas usług oraz bezpieczeństwa transakcji.
+          Kantor San Escobar daje gwarancje najwyższej jakości usług.
+        </p>
+      </main>
+      <aside>
+        <fieldset class="Bilon">
+          <legend>Bilon</legend>
+
+          <label for="iloscMonet">ilość:</label>
+          <input type="number" id="iloscMonet" name="iloscMonet" />
+        </br>
+          <label for="przelicznikMonet">przelicznik monety:</label>
+          <input type="number" id="przelicznikMonet" name="przelicznikMonet" />
+          <p id="wartoscBilonu">Wartość bilonu:</p>
+        </fieldset>
+        <fieldset class="Banknoty">
+          <legend>Banknoty</legend>
+          <label for="iloscBanknot">ilość:</label>
+          <input type="number" id="iloscBanknot" name="iloscBanknot" />
+        </br>
+          <label for="przelicznikBanknot">przelicznik banknoty: </label>
+          <input
+            type="number"
+            id="przelicznikBanknot"
+            name="przelicznikBanknot"
+          />
+          <p id="wartoscBanknotu">Wartość Banknotów:</p>
+        </fieldset>
+        <button>wartość w zł</button>
+        <p id="wartoscSumy">Wartość Twoich środków:</p>
+      </aside>
+      <footer>&copy; Kamil, 21st c.</footer>
+    </div>
+  </body>
+</html>
