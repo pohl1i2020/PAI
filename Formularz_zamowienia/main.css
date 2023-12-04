@@ -1,0 +1,697 @@
+/* Desktop - 1 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #ffffff;
+
+/* Formularz zamówienia */
+
+position: absolute;
+width: 337px;
+height: 39px;
+left: 551px;
+top: 43px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+color: #000000;
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 620px;
+height: 500px;
+left: 403px;
+top: 100px;
+
+background: #f8f9fa;
+
+/* średnia */
+
+position: absolute;
+width: 49px;
+height: 17px;
+left: 693px;
+top: 332px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #000000;
+
+/* mdi:radiobox-blank */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 677px;
+top: 333px;
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #000000;
+
+/* duża */
+
+position: absolute;
+width: 33px;
+height: 17px;
+left: 787px;
+top: 331px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #000000;
+
+/* mała */
+
+position: absolute;
+width: 32px;
+height: 17px;
+left: 616px;
+top: 332px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #000000;
+
+/* mdi:radiobox-blank */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 600px;
+top: 333px;
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #000000;
+
+/* średnia */
+
+position: absolute;
+width: 49px;
+height: 17px;
+left: 693px;
+top: 332px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #000000;
+
+/* tak */
+
+position: absolute;
+width: 21px;
+height: 17px;
+left: 709px;
+top: 306px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #000000;
+
+/* © Me XXI c. */
+
+position: absolute;
+width: 135px;
+height: 29px;
+left: 641px;
+top: 673px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #000000;
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 115px;
+height: 36px;
+left: 734px;
+top: 553px;
+
+background: #198754;
+
+/* Kawa */
+
+position: absolute;
+width: 63px;
+height: 29px;
+left: 676px;
+top: 274px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #000000;
+
+/* Deser */
+
+position: absolute;
+width: 67px;
+height: 29px;
+left: 677px;
+top: 370px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #000000;
+
+/* Data zamówienia: */
+
+position: absolute;
+width: 117px;
+height: 17px;
+left: 589px;
+top: 192px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #000000;
+
+/* Imię: */
+
+position: absolute;
+width: 32px;
+height: 17px;
+left: 592px;
+top: 123px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #000000;
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 231px;
+height: 26px;
+left: 589px;
+top: 149px;
+
+background: #ffffff;
+border: 1px solid #dee2e6;
+border-radius: 11px;
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 117px;
+height: 17px;
+left: 711px;
+top: 193px;
+
+background: #fffdfd;
+border: 1px solid #000000;
+
+/* Time_light */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: 810px;
+top: 193px;
+
+/* Ellipse 54 */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.67%;
+bottom: 16.67%;
+
+/* fill_icon */
+border: 1px solid #222222;
+
+/* Vector 64 */
+
+position: absolute;
+left: 50%;
+right: 31.25%;
+top: 35.42%;
+bottom: 50%;
+
+/* fill_icon */
+border: 1px solid #222222;
+
+/* --:-- */
+
+position: absolute;
+width: 30px;
+height: 17px;
+left: 719px;
+top: 192px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #000000;
+
+/* Rectangle 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 150px;
+height: 36px;
+left: 632px;
+top: 227px;
+
+background: #ffffff;
+border: 1px solid #dee2e6;
+border-radius: 11px;
+
+/* Expand_down_light */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 753px;
+top: 233px;
+
+/* Vector 9 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 75%;
+right: 0%;
+top: 62.5%;
+bottom: -12.5%;
+
+/* fill_icon */
+border: 1px solid #222222;
+transform: matrix(0, -1, -1, 0, 0, 0);
+
+/* Wybierz zestaw */
+
+position: absolute;
+width: 106px;
+height: 17px;
+left: 643px;
+top: 237px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #000000;
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 115px;
+height: 36px;
+left: 590px;
+top: 553px;
+
+background: #6c757d;
+
+/* Wyczyść */
+
+position: absolute;
+width: 102px;
+height: 29px;
+left: 594px;
+top: 556px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #ffffff;
+
+/* Submit */
+
+position: absolute;
+width: 80px;
+height: 29px;
+left: 749px;
+top: 556px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #ffffff;
+
+/* Rectangle 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 444.5px;
+height: 77px;
+left: 510px;
+top: 454px;
+
+background: #ffffff;
+border: 1px solid #dee2e6;
+border-radius: 12px;
+
+/* Zamówienie */
+
+position: absolute;
+width: 137px;
+height: 29px;
+left: 525px;
+top: 477px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #000000;
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 145px;
+height: 75px;
+left: 748px;
+top: 456px;
+
+background: #ffffff;
+border: 1px solid #dee2e6;
+border-radius: 12px;
+
+/* Do zapłaty */
+
+position: absolute;
+width: 121px;
+height: 29px;
+left: 758px;
+top: 477px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #000000;
+
+/* line-md:switch-off */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 685px;
+top: 303px;
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 29.17%;
+bottom: 29.17%;
+
+border: 2px solid #000000;
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 58.33%;
+top: 37.5%;
+bottom: 37.5%;
+
+background: #000000;
+
+/* tak */
+
+position: absolute;
+width: 21px;
+height: 17px;
+left: 713px;
+top: 405px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #000000;
+
+/* line-md:switch-off */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 689px;
+top: 402px;
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 29.17%;
+bottom: 29.17%;
+
+border: 2px solid #000000;
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 58.33%;
+top: 37.5%;
+bottom: 37.5%;
+
+background: #000000;
+
+/* mdi:radiobox-blank */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 677px;
+top: 333px;
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #000000;
+
+/* ciastko */
+
+position: absolute;
+width: 48px;
+height: 17px;
+left: 619px;
+top: 433px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #000000;
+
+/* mdi:radiobox-blank */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 603px;
+top: 434px;
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #000000;
+
+/* lody */
+
+position: absolute;
+width: 29px;
+height: 17px;
+left: 696px;
+top: 433px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #000000;
+
+/* mdi:radiobox-blank */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 680px;
+top: 434px;
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #000000;
+
+/* memory:radiobox-marked */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 771px;
+top: 331px;
+
+/* Vector */
+
+position: absolute;
+left: 9.09%;
+right: 9.09%;
+top: 9.09%;
+bottom: 9.09%;
+
+background: #0d6efd;
+
+/* shake */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 786px;
+top: 433px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #000000;
+
+/* memory:radiobox-marked */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 770px;
+top: 433px;
+
+/* Vector */
+
+position: absolute;
+left: 9.09%;
+right: 9.09%;
+top: 9.09%;
+bottom: 9.09%;
+
+background: #0d6efd;
