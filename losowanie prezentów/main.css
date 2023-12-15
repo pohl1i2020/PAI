@@ -1,0 +1,10 @@
+.container {
+  text-align: center;
+  align-self: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+/* form {
+  display: flex;
+  flex-wrap: wrap;
+} */
