@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stacja paliw</title>
+    <link rel="stylesheet" href="styl2.css">
+</head>
+<body>
+    <header>
+<h1>Całodobowa stacja paliw</h1>
+    </header>
+    <nav>
+        <a href="stacja.html"><img src="home.png" alt=""></a>
+        <a href="obliczenia.html"><img src="znak.png" alt=""></a>
+        <a href="kwerendy.txt">Pobierz dokumenty</a>
+
+    </nav>
+    <main>
+        <h2>Orientacyjny koszt paliwa</h2>    
+    <form action="">
+      <label for="typ">
+        Rodzaj paliwa (1-benzyna, 2-olej napędowy):
+        <input type="number" name="typ" id="typ">
+    </label>
+      <label for="ilosc">
+            Ile litrów?
+        <input type="number" name="ilosc" id="ilosc">
+    </label>
+        <button type="submit" id="sub">OBLICZ</button>
+        <p id="display"></p>
+    </form>
+    </main>
+    <aside>
+        <img src="samochod.png" alt="samochód">
+    </aside>
+    <footer>
+        <p>Stronę opracował: 0000000000</p>
+    </footer>
+</body>
+<script>
+    const btn = document.querySelector("#sub");
+    const ilosc1 = document.querySelector("#ilosc");
+    const type = document.querySelector("#typ");
+    const display = document.querySelector("#display");
+
+    
+    btn.addEventListener("click", function (evt)
+    {
+        evt.preventDefault();
+        let suma = 0;
+        const typeval = type.value ;
+        const ilosc1val = ilosc1.value ;
+        // console.log(typeval);
+        if (typeval==1) {
+            suma = ilosc1val * 4;
+            console.log(suma);
+         
+            
+        } else if (typeval==2){
+            suma = ilosc1val * 3.5;
+            console.log(suma);
+        }
+        else{
+            suma = ilosc1val * 0;
+            console.log(suma);
+        }
+        display.textContent = `koszt paliwa: ${suma} zł`
+    })
+</script>
+</html>
